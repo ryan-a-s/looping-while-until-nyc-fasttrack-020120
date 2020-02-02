@@ -6,5 +6,6 @@ def using_while
   levitation_force += 1
   puts "The force is at level #{levitation_force}"
 end
+end
 
 using_while
